@@ -29,4 +29,4 @@ for line in lines:
                 frequency[word] = 1
             else:
                 frequency[word] = frequency[word] + 1
-print frequency
+print(frequency)
